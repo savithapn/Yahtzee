@@ -1,0 +1,9 @@
+D:\Savitha\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+D:\Savitha\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+D:\Savitha\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+D:\Savitha\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+D:\Savitha\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+D:\Savitha\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+D:\Savitha\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+D:\Savitha\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+D:\Savitha\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources

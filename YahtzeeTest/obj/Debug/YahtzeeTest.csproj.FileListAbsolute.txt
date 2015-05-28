@@ -1,0 +1,7 @@
+D:\Savitha\Projects\Yahtzee\YahtzeeTest\bin\Debug\YahtzeeTest.dll
+D:\Savitha\Projects\Yahtzee\YahtzeeTest\bin\Debug\YahtzeeTest.pdb
+D:\Savitha\Projects\Yahtzee\YahtzeeTest\bin\Debug\Yahtzee.exe
+D:\Savitha\Projects\Yahtzee\YahtzeeTest\bin\Debug\Yahtzee.pdb
+D:\Savitha\Projects\Yahtzee\YahtzeeTest\obj\Debug\YahtzeeTest.csprojResolveAssemblyReference.cache
+D:\Savitha\Projects\Yahtzee\YahtzeeTest\obj\Debug\YahtzeeTest.dll
+D:\Savitha\Projects\Yahtzee\YahtzeeTest\obj\Debug\YahtzeeTest.pdb
